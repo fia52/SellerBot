@@ -1,0 +1,8 @@
+aiogram
+aioredis
+environs~=9.0
+asyncpg
+asyncio
+django
+loguru
+requests
