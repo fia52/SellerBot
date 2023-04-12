@@ -61,3 +61,4 @@ venv.bak/
 .pyre/
 .idea/*
 .env
+/telegrambot/telegrambot/settings.py
